@@ -2,6 +2,7 @@ h1 {
     color: rgb(255, 217, 0);
 }
 h2{
+   text-align: center;
     color: rgb(99, 7, 7);
 }
 h3{
@@ -11,18 +12,24 @@ h4 {
     color: rgb(0, 0, 0);
 }
 h6 {
-text-align: end;
+text-align: right;
+
+}
+h5 {
+text-align: left;
+
+}
+.imagem {
+    border-color: yellow;
+    border-width: 15px;
+    border-style: groove;
+    text-align: center;
+    width: 700px;
 
 }
 body {
     background-color: rgb(102, 102, 102);
     text-align: center;
-}
-.imagem1 {
-    width: 61%;
-}
-.imagemcentralizada {
- text-align: center;
 }
 
 .pirelli {
